@@ -1,0 +1,13 @@
+.accordion:hover{
+    background-color: whitesmoke;
+    text-decoration: none;
+    opacity: 0.9;
+}
+
+.cardbody{
+    text-align: center;
+}
+
+.main-accord{
+    opacity: 0.6;
+}
