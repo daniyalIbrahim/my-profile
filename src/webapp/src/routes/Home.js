@@ -15,16 +15,13 @@ function Home(props) {
             .typeString("I am a full stack software developer")
             .pauseFor(2500)
             .deleteAll()
-            .typeString("My personal projects are availble on the tab above")
+            .typeString("I am passionate about my work")
             .pauseFor(2500)
             .deleteAll()
-            .typeString("You can send me a message by navigating to the contact tab")
+            .typeString("and i am capable of working with these tools mentioned below")
             .pauseFor(2500)
             .deleteAll()
             .typeString("Thank you for Visiting!!")
-            .callFunction(() => {
-               
-            })
             .start();
             
     }
